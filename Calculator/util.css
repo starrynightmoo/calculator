@@ -1,0 +1,12 @@
+.center{
+	text-align: center;
+}
+/*.bg{
+	background-color: red;
+}*/
+.mx{
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
